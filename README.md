@@ -1,5 +1,9 @@
 # Swisstronik-PERC20
 
+```
+SC : 0x7657e0de709aEFd807353bFc364cd9bD3e590914
+```
+
 ## Installation
 ```
 npm install --save-dev hardhat
